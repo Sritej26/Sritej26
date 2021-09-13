@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sritej Reddy
 - 👀 I’m interested in Natural Language Processing and ComputerVision advanced use cases
-- 🌱 I’m currently Pursuing Bachelor of Technology in Computer Science at LNMIIT, Jaipur
+- 🌱 I’m currently Pursuing Master of Science in Computer Science at Arizona State University
 - 💞️ I’m looking to collaborate in projects that are fascinating to work on and pathbreaking
 - 📫 How to reach me - sritejreddy21@gmail.com
 
